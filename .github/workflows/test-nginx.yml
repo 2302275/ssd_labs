@@ -1,4 +1,4 @@
-name: Test Nginx Hello World Page
+name: Nginx Test
 
 on:
   push:
