@@ -5,6 +5,7 @@ on: [push, pull_request]
 jobs:
   security-scan:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
